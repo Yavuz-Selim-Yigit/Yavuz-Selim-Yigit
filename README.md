@@ -2,7 +2,7 @@
 <h3 align="left">Oyun geliştirici ve UI/UX tasarımcısıyım.</h3>
 ###
 
-<img align="right" height="150" src="https://imgflip.com/memetemplate/278917772/Keyboard-Typing"  />
+<img align="right" height="150" src="i.imgflip.com/4m26bw.mp4"  />
 
 ###
 
