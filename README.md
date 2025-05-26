@@ -1,5 +1,52 @@
 <h2 align="left">Merhabalar 👋</h2>
 
+# 👨‍🚀 Yavuz Selim Yiğit
+
+🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim (Necmettin Erbakan Üniversitesi)  
+🚀 Havacılık, uzay ve oyun geliştirme alanlarına tutkuyla bağlıyım  
+🛠️ Unity, Unreal Engine, Python, C, C++, C# gibi teknolojilerle projeler geliştiriyorum  
+🌟 Takım çalışmasına yatkın, öğrenmeye açık ve üretken bir geliştiriciyim
+
+---
+
+## 🚀 Şu anda neler yapıyorum?
+- Huawei Student Developer topluluğunda aktif olarak yer alıyorum 💡  
+- Python kullanarak dinamik web sitesi geliştirme üzerine çalışıyorum 🌐  
+- Unity & Unreal Engine ile oyun projeleri geliştiriyorum 🎮
+
+---
+
+## 💻 Kullandığım Teknolojiler
+
+| Kategori        | Teknolojiler                                   |
+|-----------------|------------------------------------------------|
+| 💬 Programlama  | `Python`, `C`, `C++`, `C#`                     |
+| 🎮 Oyun Geliştirme | `Unity`, `Unreal Engine`                       |
+| 🌐 Web & Diğer  | `HTML`, `CSS`, `Git`, `GitHub`, `Blender`, `VS Code` |
+
+---
+
+## 📊 GitHub İstatistikleri
+
+![Yavuz-Selim-Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Bana ulaşmak istersen
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yavuz%20Selim%20Yiğit-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yavuz-selim-yigit/)
+
+---
+
+## 🧠 İlgi Alanlarım
+- Game Development
+- Space & Aviation Technologies
+- Web Development
+- Community Building & Tech Events
+
+---
+
+> “Geleceği tasarlamak isteyenler, önce hayal kurmayı öğrenmelidir.” 🚀
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
