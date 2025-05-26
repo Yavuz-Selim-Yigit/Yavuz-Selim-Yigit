@@ -1,6 +1,6 @@
 # 🎮 Yavuz Selim Yiğit
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200§ion=header&text=Yavuz%20Selim%20Yiğit&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Oyun%20Geliştirici%20%7C%20Elektrik-Elektronik%20Mühendisi&descAlignY=55&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200§ion=header&text=Yavuz%20Selim%20Yiğit&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Oyun%20Geliştirici%20%7C%20Elektrik-Elektronik%20Mühendisi&descAlignY=55&fontColor=FFFFFF)
 
 Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-Elektronik Mühendisliği** öğrencisiyim. 🚀 **Unity** ve **Unreal Engine** ile oyunlar geliştiriyor, kullanıcı dostu **UI/UX** tasarımları ve etkileyici oyun mekanikleri yaratıyorum. Uzay, havacılık ve interaktif teknolojiler benim için bir tutku! Kod yazmak benim için bir sanat, oyun geliştirmek ise bir macera! 🎨
 
