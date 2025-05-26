@@ -25,10 +25,16 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 
 ## 📊 GitHub İstatistikleri
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=merko&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
+## 📊 GitHub İstatistikleri
+
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="320" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=blue-green&hide_border=true" alt="GitHub Streak" width="320" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" width="320" />
+
 </div>
 
 ---
