@@ -1,7 +1,9 @@
-# 🎮 Yavuz Selim Yiğit
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Merhaba%2C+ben+Yavuz+Selim+Yiğit.;Game+Developer+%7C+Unity+%7C+Unreal+Engine.;Kod+yazmak+bir+sanattır!+%F0%9F%8E%A8;Ho%C5%9F+geldiniz+profilime+%F0%9F%91%8B" alt="Typewriter animation" />
 </p>
+
+# 🎮 Yavuz Selim Yiğit
+
 
 
 🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim — Necmettin Erbakan Üniversitesi  
