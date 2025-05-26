@@ -1,5 +1,5 @@
-<h2 align="left">Merhabalar 👋, Ben<br>Oyun geliştirici ve UI/UX tasarımcısıyım.</h2>
-
+<h2 align="left">Merhabalar 👋, Ben</h2>
+<h3 align="left">>Oyun geliştirici ve UI/UX tasarımcısıyım.</h3>
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
