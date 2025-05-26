@@ -1,5 +1,5 @@
-<h2 align="left">Merhabalar 👋, Ben</h2>
-<h3 align="left">Oyun geliştirici ve UI/UX tasarımcısıyım.</h3>
+<h2 align="left">Merhabalar 👋</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
