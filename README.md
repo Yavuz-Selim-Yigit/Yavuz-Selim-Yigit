@@ -23,7 +23,6 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 
 ---
 
-## 📊 GitHub İstatistikleri
 
 ## 📊 GitHub İstatistikleri
 
