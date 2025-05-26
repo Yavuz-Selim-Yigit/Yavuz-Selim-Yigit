@@ -1,45 +1,50 @@
 # 🎮 Yavuz Selim Yiğit
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yavuz%20Selim%20Yiğit&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Oyun%20Geliştirici%20%7C%20Elektrik-Elektronik%20Mühendisi&descAlignY=55)
 
-
-🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim — Necmettin Erbakan Üniversitesi  
-🧠 Unity & Unreal Engine ile oyunlar geliştiriyorum  
-👾 Gerçek zamanlı deneyimler, prototipler, oyun mekaniği ve kullanıcı deneyimi (UI/UX) tasarımı konularında çalışıyorum  
-🚀 Uzay, havacılık ve oyun geliştirme benim için birer tutku ve yaşam biçimi
+Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-Elektronik Mühendisliği** öğrencisiyim. 🚀 **Unity** ve **Unreal Engine** ile oyunlar geliştiriyor, kullanıcı dostu **UI/UX** tasarımları ve etkileyici oyun mekanikleri yaratıyorum. Uzay, havacılık ve interaktif teknolojiler benim için bir tutku! Kod yazmak benim için bir sanat, oyun geliştirmek ise bir macera! 🎨
 
 ---
 
-## 🕹️ Kullandığım Araçlar
+## 🚀 Hakkımda
+
+- 🎓 **Eğitim**: Necmettin Erbakan Üniversitesi, Elektrik-Elektronik Mühendisliği
+- 🕹️ **Uzmanlık**: Oyun geliştirme, gerçek zamanlı deneyimler, UI/UX tasarımı
+- 💻 **Diller ve Araçlar**: C++, Python, C#, Unity, Unreal Engine, Blender, Figma
+- 🌌 **Tutkularım**: Uzay teknolojileri, havacılık ve yaratıcı projeler
+
+---
+
+## 🛠️ Teknoloji Yığınım
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,qt,unity,unreal,blender,figma,xd,canva" />
 </p>
 
 ---
 
 ## 📊 GitHub İstatistikleri
 
-![Yavuz Selim Yiğit GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=github_dark&bg_color=000C1D&title_color=58A6FF&icon_color=58A6FF&text_color=ADBAC7)
-
----
-
-## 🌐 Sosyal Hesaplarım
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yavuz%20Selim%20Yiğit-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yavuz-selim-yigit/)  
-[![Instagram](https://img.shields.io/badge/Instagram-yselimygt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yselimygt)  
-[![Itch.io](https://img.shields.io/badge/Itch.io-Gamedev-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://yavuz-selim-yigit.itch.io/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 
-> “Kod yazmak yalnızca algoritma değil; oyun geliştirme bir sanattır.” 🎨
-****
+
+## 🌐 Bağlantılarım
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yavuz-selim-yigit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+  <a href="https://instagram.com/yselimygt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a>
+  <a href="https://yavuz-selim-yigit.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=FA5C5C" /></a>
+</p>
+
+---
+
+> “Kod yazmak bir algoritma, oyun geliştirmek bir sanat eseridir.” 🎮
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
