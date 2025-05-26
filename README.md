@@ -2,17 +2,18 @@
 
 🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim — Necmettin Erbakan Üniversitesi  
 🧠 Unity & Unreal Engine ile oyunlar geliştiriyorum  
-👾 Gerçek zamanlı deneyimler, prototipler ve oyun mekaniği tasarımı konularında çalışıyorum  
-🚀 Space, aviation ve game development benim için bir yaşam biçimi
+👾 Gerçek zamanlı deneyimler, prototipler, oyun mekaniği ve kullanıcı deneyimi (UI/UX) tasarımı konularında çalışıyorum  
+🚀 Uzay, havacılık ve oyun geliştirme benim için birer tutku ve yaşam biçimi
 
 ---
 
-## 🕹️Kullandığım Araçlar
+## 🕹️ Kullandığım Araçlar
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
@@ -38,7 +39,8 @@
 ---
 
 ## 🎯 Hedefim
-Gerçek zamanlı etkileşimli deneyimler ve oyun teknolojileriyle kariyerimi inşa etmek.  
-Takım içinde yaratıcı fikirler üretmek ve topluluklara katkı sunmak istiyorum.
+Gerçek zamanlı etkileşimli deneyimler, oyun teknolojileri ve kullanıcı arayüzü/deneyimi tasarımı üzerine yoğunlaşarak; yaratıcı, etkileşimli projelerle teknoloji dünyasına katkı sunmak.  
+Takım içinde üretkenliği artırmak ve topluluklara ilham vermek en büyük motivasyonlarım arasında.
 
 > “Kod yazmak yalnızca algoritma değil; oyun geliştirme bir sanattır.” 🎨
+****
