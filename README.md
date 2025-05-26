@@ -45,4 +45,4 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 
 > “Kod yazmak bir algoritma, oyun geliştirmek bir sanat eseridir.” 🎮
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&weidth=1000§ion=footer&fontColor=FFFFFF)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&weidth=2000§ion=footer&fontColor=FFFFFF)
