@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://files.gumlet.io/chatgpt/2025-05-26/github-banner-yavuzselimyigit.png" alt="Yavuz Selim Yiğit GitHub Banner" />
-</p>
-
-
 # 🎮 Yavuz Selim Yiğit
 
 
@@ -45,9 +40,6 @@
 
 ---
 
-## 🎯 Hedefim
-Gerçek zamanlı etkileşimli deneyimler, oyun teknolojileri ve kullanıcı arayüzü/deneyimi tasarımı üzerine yoğunlaşarak; yaratıcı, etkileşimli projelerle teknoloji dünyasına katkı sunmak.  
-Takım içinde üretkenliği artırmak ve topluluklara ilham vermek en büyük motivasyonlarım arasında.
 
 > “Kod yazmak yalnızca algoritma değil; oyun geliştirme bir sanattır.” 🎨
 ****
