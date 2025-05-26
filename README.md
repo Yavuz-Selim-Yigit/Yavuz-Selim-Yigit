@@ -38,10 +38,10 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 ## 🌐 Bağlantılarım
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yavuz-selim-yigit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-  <a href="https://instagram.com/yselimygt"><img src="https://img.shields.io/badge/Instagram-4682B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4682B4" /></a>
+  <a href="https://www.linkedin.com/in/yavuz-selim-yigit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E90FF&color=87CEEB" /></a>
+  <a href="https://instagram.com/yselimygt"><img src="https://img.shields.io/badge/Instagram-4682B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1E90FF&color=87CEEB" /></a>
   <a href="https://yavuz-selim-yigit.itch.io/"><img src="https://img.shields.io/badge/Itch.io-1E90FF?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=1E90FF&color=87CEEB" /></a>
-  <a href="https://medium.com/@yavuzselimyigit"><img src="https://img.shields.io/badge/Medium-1E90FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=1E90FF" /></a>
+  <a href="https://medium.com/@yavuzselimyigit"><img src="https://img.shields.io/badge/Medium-1E90FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=1E90FF&color=87CEEB" /></a>
 </p>
 
 ---
