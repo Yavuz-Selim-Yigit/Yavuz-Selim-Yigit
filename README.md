@@ -24,7 +24,7 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 ## 📊 GitHub İstatistikleri
 
 
-<div align="center" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=blue&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="320" />
 
