@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=400§ion=header&text=Yavuz%20Selim%20Yiğit&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Oyun%20Geliştirime%20%7C%20UI/UX%20Tasarım&descAlignY=55&fontColor=FFFFFF)
 
-Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-Elektronik Mühendisliği** öğrencisiyim. 🚀 **Unity** ve **Unreal Engine** ile oyunlar geliştiriyor, kullanıcı dostu **UI/UX** tasarımları ve oyun mekanikleri üzerine çalışıyorum. Kod yazmak benim için bir sanat, oyun geliştirmek ise bir macera! 🎨
+Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-Elektronik Mühendisliği** öğrencisiyim. 🚀 **Unity** ve **Unreal Engine** ile oyunlar geliştiriyor, kullanıcı dostu **UI/UX** tasarımları ve oyun mekanikleri üzerine çalışıyorum.
 
 ---
 
