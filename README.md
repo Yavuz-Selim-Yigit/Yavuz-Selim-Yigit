@@ -9,7 +9,7 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 - 🎓 **Eğitim**: Necmettin Erbakan Üniversitesi, Elektrik-Elektronik Mühendisliği
 - 🕹️ **Uzmanlık**: Oyun geliştirme, gerçek zamanlı deneyimler, UI/UX tasarımı
 - 💻 **Diller ve Araçlar**: C++, Python, C#, Unity, Unreal Engine, Blender, Figma
-- 🌌 **Tutkularım**: Astronomi, tarihi satranç
+- 🌌 **Tutkularım**: Astronomi, tarih, satranç
 
 ---
 
