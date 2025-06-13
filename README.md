@@ -1,15 +1,20 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=400§ion=header&text=Yavuz%20Selim%20Yiğit&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Oyun%20Geliştirime%20%7C%20UI/UX%20Tasarım&descAlignY=55&fontColor=FFFFFF)
 
-Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-Elektronik Mühendisliği** öğrencisiyim. 🚀 **Unity** ve **Unreal Engine** ile oyunlar geliştiriyor, kullanıcı dostu **UI/UX** tasarımları ve oyun mekanikleri üzerine çalışıyorum.
+Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-Elektronik Mühendisliği** öğrencisiyim. Unity ve Unreal Engine ile oyunlar geliştiriyor, kullanıcı dostu UI/UX tasarımları ve oyun mekanikleri üzerine çalışıyorum.
 
 ---
 
 ## 🚀 Hakkımda
 
-- 🎓 **Eğitim**: Necmettin Erbakan Üniversitesi, Elektrik-Elektronik Mühendisliği
-- 🕹️ **Uzmanlık**: Oyun geliştirme, gerçek zamanlı deneyimler, UI/UX tasarımı
-- 💻 **Diller ve Araçlar**: C++, Python, C#, Unity, Unreal Engine, Blender, Figma
-- 🌌 **Tutkularım**: Astronomi, tarih, satranç
+Elektrik-Elektronik Mühendisliği lisans öğrencisiyim. Yazılım geliştirme, oyun teknolojileri ve kullanıcı arayüz tasarımı alanlarında kendimi sürekli geliştiriyorum.
+
+Python, C, C++, C# dillerinde yazılım projeleri geliştiriyor; Unity ve Unreal Engine ile oyun geliştirme süreçlerine odaklanıyorum. Teknik yeterliliğimi kullanıcı deneyimi tasarımıyla birleştirerek işlevsel ve estetik arayüzler oluşturuyorum.
+
+Gökturan Robotik takımında TEKNOFEST projeleri için tasarım ve yazılım geliştirme süreçlerinde aktif görev alıyorum.
+
+Huawei Student Developer topluluğunda sosyal medya komitesinde aktif olarak görev almakta; Instagram yönetimi ve grafik tasarım alanlarında katkı sağlamaktayım. Bu deneyim, dijital iletişim ve görsel içerik üretme becerilerimi geliştirmeme olanak tanımaktadır.
+
+Hedefim; yazılım mühendisliği ve oyun teknolojileri kesişiminde uzmanlaşarak yenilikçi çözümler üreten projelerde yer almak. GitHub üzerinden projelerimi açık kaynak olarak paylaşarak öğrenmeye ve katkı sunmaya devam ediyorum.
 
 ---
 
@@ -23,17 +28,11 @@ Merhaba! Ben **Yavuz Selim Yiğit**, Necmettin Erbakan Üniversitesi **Elektrik-
 
 ## 📊 GitHub İstatistikleri
 
-
 <div align="center" style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=blue&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="320" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=blue&hide_border=true" alt="GitHub Streak" width="320" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&theme=blue&hide_border=true" alt="Top Languages" width="320" />
-
 </div>
-
 
 ---
 
