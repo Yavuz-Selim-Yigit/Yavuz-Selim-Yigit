@@ -1,4 +1,4 @@
-# 👋 Selam! Ben Yavuz Selim Yiğit
+# 👋 Selam! Ben Yavuz Selim!
 
 ![Cyberpunk Banner](https://i.ibb.co/MkP0VnN/glitch-banner.gif)
 
@@ -40,7 +40,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=blue-green&hide_border=true" />
 </p>
 
-![snake gif](https://github.com/Yavuz-Selim-Yigit/Yavuz-Selim-Yigit/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
+</p>
 
 ---
 
