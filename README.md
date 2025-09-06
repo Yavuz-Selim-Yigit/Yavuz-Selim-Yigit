@@ -1,68 +1,70 @@
-# 👋 Selam! Ben Yavuz Selim Yiğit  
+# 👾 Cyberpunk README
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:22c55e&height=200&section=header&text=Yavuz%20Selim%20Yiğit&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Glitch Banner](https://i.ibb.co/MkP0VnN/glitch-banner.gif)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3NXR4MGZ0ajdsZXoyYzV2eHNhczR4M2xzNHpsMnV4bTJ2c3I5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gU25raLP4pUu4/giphy.gif" width="250" />
-</p>
+```
+> booting profile...
+> loading system modules ████████████ 100%
 
----
+[ ACCESS GRANTED ✔ ]
+```
 
-## 🧩 Hakkımda  
+# 🐍 Yavuz Selim Yiğit | system.online
 
-🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim.  
-🎮 Indie oyun geliştiricisiyim ve **Vipera Dev** adlı kendi oyun stüdyomu kurdum.  
-🚀 TEKNOFEST projelerinde **simülasyon, yazılım ve UI/UX** üzerine çalışıyorum.  
-🎨 Tasarım, kodlama ve hayal gücünü bir araya getirerek üretmeyi seviyorum.  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,python,html,css,js,git,github,figma,blender" />
-</p>
-
-✨ Ayrıca **Aseprite** ile pixel art çiziyor, **Canva** ile hızlı içerik üretiyorum.  
+```ascii
+   __     ______  _    _   _    _      _   _ 
+   \ \   / / __ \| |  | | | |  | |    | | | |
+    \ \_/ / |  | | |  | | | |__| | ___| |_| |
+     \   /| |  | | |  | | |  __  |/ _ \ __| |
+      | | | |__| | |__| | | |  | |  __/ |_| |
+      |_|  \____/ \____/  |_|  |_|\___|\__|_|
+```
 
 ---
 
-## 📊 GitHub İstatistikleri  
+## [SYS_INFO]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=radical&hide_border=true" />
-</p>
+- ⚡ **Role:** Electrical-Electronics Engineering Student / Indie Game Dev  
+- 🕹 **Studio:** Vipera Dev (independent game studio)  
+- 🤖 **Active Project:** TEKNOFEST Robotics (simulation, software, UI/UX)  
+- 🎨 **Side Quests:** Pixel art (Aseprite), 3D (Blender), UI/UX (Figma)  
 
 ---
 
-## 🎮 Vipera Dev  
+## [TECH_STACK]
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB0NzN5YWw1bGlrYThkZGQyY3QwNzU4aHhzM3c5Mnl0ZDB1bWd5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
-</p>
-
-Benim indie stüdyom, benim yolculuğum.  
-Burada **oyun geliştirme, görsel tasarım ve kullanıcı deneyimini** birleştirerek özgün projeler yaratmayı hedefliyorum.  
-
----
-
-## ✨ Hedefler  
-
-- 🎮 Küçük ama yaratıcı oyunlar üretmek  
-- 🚀 TEKNOFEST projelerinde disiplinler arası tecrübe kazanmak  
-- 🌍 **Vipera Dev’i global bir indie stüdyo haline getirmek**  
+```
+Core:     C | C++ | C#
+GameDev:  Unity | Unreal Engine (learning)
+Design:   Aseprite | Blender (learning) | Canva | Figma (learning)
+Web:      HTML5 | CSS | JS
+Tools:    Git | GitHub | Python (scripts)
+```
 
 ---
 
-## 📫 Bana Ulaş  
+## [MISSIONS]
 
-📧 **yavuzselimyigit06@outlook.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/yavuz-selim-yigit)  
-💻 [GitHub](https://github.com/Yavuz-Selim-Yigit)  
+- 🕹 Develop indie games with creative design & strong gameplay  
+- 🐍 Grow **Vipera Dev** into a recognizable indie studio  
+- ✈️ Build simulation & robotics projects for TEKNOFEST  
+- 🌍 Share knowledge through open source & communities  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=100:22c55e,0:22d3ee&height=120&section=footer)
+---
+
+## [CONTACT]
+
+```
+📧 Email:    yavuzselimyigit06@outlook.com
+💼 LinkedIn: linkedin.com/in/yavuz-selim-yigit
+💻 GitHub:   github.com/Yavuz-Selim-Yigit
+```
+
+---
+
+```
+> system.shutdown --now
+> see you in the next commit...
+```
+
+![Glitch Footer](https://i.ibb.co/MkP0VnN/glitch-banner.gif)
