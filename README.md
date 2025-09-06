@@ -1,4 +1,4 @@
-# 👋 Selam! Ben Yavuz Selim Yiğit
+# 👋 Selam! Ben Yavuz Selim!
 
 ![Cyberpunk Banner](https://i.ibb.co/MkP0VnN/glitch-banner.gif)
 
