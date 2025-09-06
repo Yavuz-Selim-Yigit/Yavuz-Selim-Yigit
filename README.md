@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
+</p>
+
+---
+
 ## 🛠️ Teknoloji Yığını
 
 <p align="center">
@@ -42,9 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=blue-green&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
-</p>
 
 ---
 
