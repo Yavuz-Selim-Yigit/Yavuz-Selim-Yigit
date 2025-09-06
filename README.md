@@ -8,16 +8,12 @@
 
 ---
 
-## 🚀 Hakkımda  
+## 🧑‍🚀 Hakkımda  
 
-Ben bir **öğrenci, yazılımcı ve oyun geliştiricisiyim.**  
-Kod yazmayı, oyun tasarlamayı, yeni teknolojiler öğrenmeyi ve kendi fikirlerimi hayata geçirmeyi seviyorum.  
-
-- 🎮 **Vipera Dev**: Bağımsız oyun stüdyom, uzun vadeli hayalim.  
-- 🤖 **Gökturan Robotik**: TEKNOFEST projelerinde simülasyon, yazılım ve UI/UX geliştirme.  
-- 🌐 **Topluluk Deneyimi**: Sosyal medya yönetimi ve içerik üretimiyle dijital iletişim.  
-
-💡 Amacım: **Yazılım mühendisliği ile oyun teknolojilerini birleştirerek global ölçekte yenilikçi projeler geliştirmek.**  
+Ben bir **öğrenci, yazılımcı ve hayal gücü yüksek bir oyun geliştiricisiyim.**  
+Kod yazarken sadece işlevselliğe değil, estetiğe de önem veriyorum.  
+Bazen 2D pixel art çizerken zaman kaybediyorum, bazen saatlerce 3D sahne modellemeye dalıyorum.  
+Ama günün sonunda tek isteğim şu: **oyunlarım ve projelerim insanlarda iz bıraksın.**  
 
 ---
 
@@ -58,27 +54,12 @@ Kod yazmayı, oyun tasarlamayı, yeni teknolojiler öğrenmeyi ve kendi fikirler
 
 ---
 
-## 🎮 Oyun Geliştirme Tarafım  
+## 🐍 Kişiliğim  
 
-![GameDev](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtZTBpN2ZwMGV2Nm01d2xjaGFlYXl0NnZydHZ6YmZxdjRza3N5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnkI6Hh5H1iQY/giphy.gif)
-
-- 🕹 2D oyunlarda **Unity + Aseprite**  
-- 🎨 3D sahnelerde **Blender + Unreal Engine**  
-- 📦 Indie ruhuyla **Vipera Dev** çatısı altında kendi projelerim  
-
----
-
-## ✨ Hedeflerim  
-- Oyun teknolojileriyle yazılım mühendisliğini birleştirmek  
-- **Vipera Dev**’i global ölçekte tanınan bir indie stüdyo yapmak  
-- Açık kaynak & topluluk odaklı projelerle katkı sağlamak  
-
----
-
-## 📫 Bana Ulaş  
-
-📧 **yavuzselimyigit06@outlook.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/yavuz-selim-yigit)  
-💻 [GitHub](https://github.com/Yavuz-Selim-Yigit)  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:22d3ee&height=120&section=footer)
+```text
+> Kendimi şöyle tarif ediyorum:
+- Hayalperest 🌌
+- Detaycı 🎨
+- Teknolojiye aç 🚀
+- Disiplin arayışında ⏳
+- Başaramama korkusunu hırsa çeviren 💡
