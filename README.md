@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
+</p>
+
+---
+
 ## 🧩 Hakkımda
 🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim; yazılım geliştirme, oyun teknolojileri ve kullanıcı arayüz tasarımı alanlarında üretmeye odaklanıyorum.  
 💻 C, C++ ve C# dillerinde projeler geliştiriyor; **Unity** ve **Unreal Engine** üzerinde oyun tasarımı, 3D modelleme ve kullanıcı deneyimi süreçlerinde kendimi geliştiriyorum.  
@@ -38,10 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=blue-green&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
 </p>
 
 ---
