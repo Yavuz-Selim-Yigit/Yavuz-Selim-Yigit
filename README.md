@@ -7,7 +7,7 @@
 ## 🧩 Hakkımda
 🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim; yazılım geliştirme, oyun teknolojileri ve kullanıcı arayüz tasarımı alanlarında üretmeye odaklanıyorum.  
 💻 C, C++ ve C# dillerinde projeler geliştiriyor; **Unity** ve **Unreal Engine** üzerinde oyun tasarımı, 3D modelleme ve kullanıcı deneyimi süreçlerinde kendimi geliştiriyorum.  
-🚀 **Gökturan Robotik** ekibinde TEKNOFEST projelerinde simülasyon, yazılım ve UI/UX görevleri üstleniyorum.  
+🖥️ Masaüstü uygulamalar geliştiriyor, farklı alanlarda üretimler yapıyorum.  
 🎨 Çeşitli topluluklarda içerik üretimi ve sosyal medya yönetimiyle dijital iletişim becerilerimi de pekiştiriyorum.  
 
 ---
@@ -15,17 +15,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,python,html,css,js,git,github,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,python,html,css,js,git,github,figma,blender,canva,aseprite" />
 </p>
-
-✨ Ayrıca: **Aseprite** (pixel art), **Canva** (hızlı içerik), **Figma** (UI/UX), **Blender** (3D öğreniyorum).  
 
 ---
 
 ## 🏆 Rozetler
 <p align="center">
   <img src="https://img.shields.io/badge/GameDev-%F0%9F%8E%AE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Robotics-%F0%9F%A4%96-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20Apps-%F0%9F%92%BB-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-%F0%9F%8E%A8-purple?style=for-the-badge" />
 </p>
 
@@ -45,15 +43,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
 </p>
-
----
-
-## 🎵 Şu An Dinlediğim
-<p align="center">
-  <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
-</p>
-
-🎶 Buraya **YouTube Music Now Playing** entegrasyonu eklenebilir. (Spotify için hazır API var; YouTube Music için ise tarayıcı uzantılarıyla veya manuel scriptlerle şarkı bilgisini güncellemek mümkün.)
 
 ---
 
