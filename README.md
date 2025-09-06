@@ -15,11 +15,8 @@
 ## 🛠️ Teknoloji Yığını
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,python,html,css,js,git,github,figma,blender,canva,aseprite" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,python,html,css,js,git,github,figma,blender,canva,aseprite" />
 </p>
-
-📌 Kullandıklarım: **C, C++, C#, Unity, Unreal Engine, Python, HTML5, CSS, JavaScript, Git, GitHub, Figma, Blender, Canva, Aseprite**
-
 ---
 
 ## 🏆 Rozetler
