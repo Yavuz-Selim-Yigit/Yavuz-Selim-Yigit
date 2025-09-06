@@ -32,16 +32,16 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yavuz-Selim-Yigit&show_icons=true&title_color=22d3ee&icon_color=22c55e&text_color=38bdf8&bg_color=0d1117&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yavuz-Selim-Yigit&layout=compact&title_color=22d3ee&text_color=38bdf8&bg_color=0d1117&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yavuz-Selim-Yigit&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="commit snake" />
+  <img src="https://raw.githubusercontent.com/Yavuz-Selim-Yigit/Yavuz-Selim-Yigit/output/github-contribution-grid-snake.svg" alt="commit snake" />
 </p>
 
 ---
