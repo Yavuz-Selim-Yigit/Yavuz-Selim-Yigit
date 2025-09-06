@@ -1,13 +1,12 @@
-# 👋 Selam! Ben Yavuz Selim!
+# 👋 Selam! Ben Yavuz Selim Yiğit
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:22c55e&height=200&section=header&text=Yavuz%20Selim%20Yiğit&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Cyberpunk Banner](https://i.ibb.co/MkP0VnN/glitch-banner.gif)
 
 ---
 
 ## 🧩 Hakkımda
 🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim; yazılım geliştirme, oyun teknolojileri ve kullanıcı arayüz tasarımı alanlarında üretmeye odaklanıyorum.  
 💻 C, C++ ve C# dillerinde projeler geliştiriyor; **Unity** ve **Unreal Engine** üzerinde oyun tasarımı, 3D modelleme ve kullanıcı deneyimi süreçlerinde kendimi geliştiriyorum.  
-🎮 Kurduğum bağımsız oyun stüdyosu **Vipera Dev**, yalnızca bir girişim değil aynı zamanda uzun vadeli hedefimdir.  
 🚀 **Gökturan Robotik** ekibinde TEKNOFEST projelerinde simülasyon, yazılım ve UI/UX görevleri üstleniyorum.  
 🎨 Çeşitli topluluklarda içerik üretimi ve sosyal medya yönetimiyle dijital iletişim becerilerimi de pekiştiriyorum.  
 
@@ -20,6 +19,15 @@
 </p>
 
 ✨ Ayrıca: **Aseprite** (pixel art), **Canva** (hızlı içerik), **Figma** (UI/UX), **Blender** (3D öğreniyorum).  
+
+---
+
+## 🏆 Rozetler
+<p align="center">
+  <img src="https://img.shields.io/badge/GameDev-%F0%9F%8E%AE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-%F0%9F%A4%96-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-%F0%9F%8E%A8-purple?style=for-the-badge" />
+</p>
 
 ---
 
@@ -40,10 +48,12 @@
 
 ---
 
-## 🎯 Hedeflerim
-- 🎮 Küçük ama yaratıcı oyunlar geliştirmek  
-- 🚀 **Vipera Dev**’i global ölçekte tanınan bir indie stüdyo yapmak  
-- ✨ Açık kaynak projelerle topluluğa katkı sunmak  
+## 🎵 Şu An Dinlediğim
+<p align="center">
+  <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
+</p>
+
+🎶 Buraya **YouTube Music Now Playing** entegrasyonu eklenebilir. (Spotify için hazır API var; YouTube Music için ise tarayıcı uzantılarıyla veya manuel scriptlerle şarkı bilgisini güncellemek mümkün.)
 
 ---
 
